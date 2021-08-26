@@ -5,4 +5,5 @@ CMakeFiles/POO.dir/main.cpp.obj: \
  ../Principal.h \
  ../main.cpp \
  ../parte_1.h \
- ../parte_2.h
+ ../parte_2.h \
+ ../parte_3.h

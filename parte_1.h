@@ -5,8 +5,6 @@
 #ifndef POO_PARTE_1_H
 #define POO_PARTE_1_H
 
-#include "Principal.h"
-
 class Persona
 {
     //Atributos -> es privado
