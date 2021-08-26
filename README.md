@@ -9,7 +9,7 @@ Repaso:
 * Abstracción:
   * Caracteristicas escenciales, tomar los datos importantes.
 * Encapsulación:
-  * Ver como funciona y como usarlo.
+  * Ver como funciona y como usarlo. "Private, Public"
 * Herencia:
   * Donde una clase nueva se crea a partir de una clase que ya existe, y heredamos sus atributos y metodos.
   * Super clase o clase padre.
