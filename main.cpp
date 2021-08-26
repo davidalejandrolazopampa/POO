@@ -5,7 +5,7 @@
 #include "parte_2.h" //Sobrecarga de Constructures -> Puede ser de diferentes formas
 #include "parte_3.h" //Destructor
 #include "parte_4.h" // Metodos constructores y modificadores (GETTERS and SETTERS)
-#include "parte_5.h"
+#include "parte_5.h" //Herencia
 /*********************************************/
 
 int main()
