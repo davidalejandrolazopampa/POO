@@ -8,4 +8,5 @@ CMakeFiles/POO.dir/main.cpp.obj: \
  ../parte_2.h \
  ../parte_3.h \
  ../parte_4.h \
- ../parte_5.h
+ ../parte_5.h \
+ ../parte_6.h

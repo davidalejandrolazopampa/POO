@@ -6,6 +6,7 @@
 #include "parte_3.h" //Destructor
 #include "parte_4.h" // Metodos constructores y modificadores (GETTERS and SETTERS)
 #include "parte_5.h" //Herencia
+#include "parte_6.h" //Polimosfismo -> Mandar la misma Accion pero el resultado es diferente
 /*********************************************/
 
 int main()
@@ -14,6 +15,7 @@ int main()
     //Parte2();
     //Parte3();
     //Parte4();
-    Parte5();
+    //Parte5();
+    Parte6();
     return 0;
 }
